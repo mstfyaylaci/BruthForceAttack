@@ -1,0 +1,17 @@
+C:\Users\pc\source\repos\BruthForceAttacak\Businnes\obj\Debug\net5.0\Businnes.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\BruthForceAttacak\Businnes\obj\Debug\net5.0\Businnes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\BruthForceAttacak\Businnes\obj\Debug\net5.0\Businnes.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\BruthForceAttacak\Businnes\obj\Debug\net5.0\Businnes.AssemblyInfo.cs
+C:\Users\pc\source\repos\BruthForceAttacak\Businnes\obj\Debug\net5.0\Businnes.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\BruthForceAttacak\Businnes\bin\Debug\net5.0\Businnes.deps.json
+C:\Users\pc\source\repos\BruthForceAttacak\Businnes\bin\Debug\net5.0\Businnes.dll
+C:\Users\pc\source\repos\BruthForceAttacak\Businnes\bin\Debug\net5.0\ref\Businnes.dll
+C:\Users\pc\source\repos\BruthForceAttacak\Businnes\bin\Debug\net5.0\Businnes.pdb
+C:\Users\pc\source\repos\BruthForceAttacak\Businnes\bin\Debug\net5.0\DataAcces.dll
+C:\Users\pc\source\repos\BruthForceAttacak\Businnes\bin\Debug\net5.0\Entities.dll
+C:\Users\pc\source\repos\BruthForceAttacak\Businnes\bin\Debug\net5.0\DataAcces.pdb
+C:\Users\pc\source\repos\BruthForceAttacak\Businnes\bin\Debug\net5.0\Entities.pdb
+C:\Users\pc\source\repos\BruthForceAttacak\Businnes\obj\Debug\net5.0\Businnes.csproj.CopyComplete
+C:\Users\pc\source\repos\BruthForceAttacak\Businnes\obj\Debug\net5.0\Businnes.dll
+C:\Users\pc\source\repos\BruthForceAttacak\Businnes\obj\Debug\net5.0\ref\Businnes.dll
+C:\Users\pc\source\repos\BruthForceAttacak\Businnes\obj\Debug\net5.0\Businnes.pdb

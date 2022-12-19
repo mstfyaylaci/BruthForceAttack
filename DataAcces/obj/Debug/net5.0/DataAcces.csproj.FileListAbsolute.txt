@@ -1,0 +1,15 @@
+C:\Users\pc\source\repos\BruthForceAttacak\DataAcces\obj\Debug\net5.0\DataAcces.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\BruthForceAttacak\DataAcces\obj\Debug\net5.0\DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\BruthForceAttacak\DataAcces\obj\Debug\net5.0\DataAcces.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\BruthForceAttacak\DataAcces\obj\Debug\net5.0\DataAcces.AssemblyInfo.cs
+C:\Users\pc\source\repos\BruthForceAttacak\DataAcces\obj\Debug\net5.0\DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\BruthForceAttacak\DataAcces\bin\Debug\net5.0\DataAcces.deps.json
+C:\Users\pc\source\repos\BruthForceAttacak\DataAcces\bin\Debug\net5.0\DataAcces.dll
+C:\Users\pc\source\repos\BruthForceAttacak\DataAcces\bin\Debug\net5.0\ref\DataAcces.dll
+C:\Users\pc\source\repos\BruthForceAttacak\DataAcces\bin\Debug\net5.0\DataAcces.pdb
+C:\Users\pc\source\repos\BruthForceAttacak\DataAcces\bin\Debug\net5.0\Entities.dll
+C:\Users\pc\source\repos\BruthForceAttacak\DataAcces\bin\Debug\net5.0\Entities.pdb
+C:\Users\pc\source\repos\BruthForceAttacak\DataAcces\obj\Debug\net5.0\DataAcces.csproj.CopyComplete
+C:\Users\pc\source\repos\BruthForceAttacak\DataAcces\obj\Debug\net5.0\DataAcces.dll
+C:\Users\pc\source\repos\BruthForceAttacak\DataAcces\obj\Debug\net5.0\ref\DataAcces.dll
+C:\Users\pc\source\repos\BruthForceAttacak\DataAcces\obj\Debug\net5.0\DataAcces.pdb
